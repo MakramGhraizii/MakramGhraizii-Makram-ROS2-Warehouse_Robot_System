@@ -24,6 +24,7 @@ setup(
         'console_scripts': [
             'item_delivery_server_node = warehouse_robot.item_delivery_server:main',
             'item_delivery_client_node = warehouse_robot.item_delivery_client:main',
+            'stock_checker_server_node = warehouse_robot.stock_checker_server:main',
         ],
     },
 )
