@@ -1,0 +1,10 @@
+# Goal definition
+string item_name
+int32 quantity
+---
+# Result definition
+bool success
+string message
+---
+# Feedback definition
+string status
